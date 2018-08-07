@@ -57,3 +57,5 @@ head(portland94_sf)
 ggplot() +
   geom_sf(data = taz_sf, aes(alpha=0.9)) +
   geom_sf(data = portland94_sf)
+
+#BLAHBLAHBLAH
